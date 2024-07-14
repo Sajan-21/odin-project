@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Voltaire&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.odin-text-nav{
+    font-family: "Caesar Dressing", system-ui;
+}
+
+.nav-link{
+    color: rgb(107 114 128);
+}
+
+.nav-link:hover{
+    border-bottom: 2px solid rgb(107 114 128);
+    color: rgb(0, 0, 0);
+}
+
+.nav-link:visited{
+    color: rgb(107 114 128);
+}
+
+.nav-btn-custom{
+    background-color: rgb(15 118 110);
+}
+
+.nav-btn-custom:hover{
+    background-color: rgb(12, 89, 82);
+}
+
+.offcanvas-lists-custom{
+    border-style: none;
+}
+
+.response-menu-custom{
+    display: none;
+}
+
+.page-moto{
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 4rem;
+}
+
+.page-moto-caption{
+    font-size: 20px;
+    line-height: 1em;
+}
+
+.hiw-text{
+    font-size: 20px;
+}
+
+.hiw-custom{
+    font-weight: 600;
+}
+
+.hiw-col-head{
+    font-weight: 600;
+}
+
+.hiw-col-texts{
+    font-size: 18px;
+}
+
+.gray-row{
+    background-color: #f2f2f2;
+}
+
+.roadmap{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.roadmap:hover{
+    box-shadow: 1px 1px 10px rgb(167, 167, 167);
+}
+
+.row-col-text{
+    font-weight: 600;
+}
+
+.ss-img{
+    border-radius: 50%;
+}
